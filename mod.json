@@ -1,0 +1,10 @@
+name: "5opka"
+displayName: "5opkamusic"
+author: SINveRus
+description: "'это мод который добавляет песенки пятёрки By SINveRus"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hideBrowser: false
+ hideBrowser: false
+ hidden: true
