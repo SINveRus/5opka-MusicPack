@@ -1,22 +1,22 @@
 const music = {
     volume: 0.7,
     menuTracks: [
-        "menu1.ogg",
-        "menu2.ogg",
-        "menu3.ogg"
+        "music/menu1.ogg",
+        "music/menu2.ogg",
+        "music/menu3.ogg"
     ],
     gameTracks: [
-        "game1.ogg",
-        "game2.ogg",
-        "game3.ogg",
-        "game4.ogg",
-        "game5.ogg",
-        "game6.ogg",
-        "game7.ogg",
-        "game8.ogg",
-        "game9.ogg"
+        "music/game1.ogg",
+        "music/game2.ogg",
+        "music/game3.ogg",
+        "music/game4.ogg",
+        "music/game5.ogg",
+        "music/game6.ogg",
+        "music/game7.ogg",
+        "music/game8.ogg",
+        "music/game9.ogg"
     ],
-    bossTrack: "game2.ogg"
+    bossTrack: "music/game2.ogg"
 };
 
 let currentTrack = 0;
